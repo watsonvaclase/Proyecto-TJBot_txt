@@ -16,8 +16,8 @@ de Watson y así poder hacer hablar a nuestro robot.</div>
 de Watson y así poder hacer hablar a nuestro robot.</div>
 <img id="img1" src="imagenes/Imagen1.png"> <br>
 <p id="texto3"> El objetivo final será hacer que nuestro TJBot sea capaz de mantener una conversación con nosotros y obedezca algunas órdenes.</p>
-### 1.1.	CÓMO CREAR A TJBOT
-#### 1.1.1.	RAPSBERRY PI3 
+<b> 1.1.	CÓMO CREAR A TJBOT </b>
+<b> 1.1.1.	RAPSBERRY PI3 </b>
 <div id="texto4">Raspberry Pi es un computador de placa única. <br> <br> <br>
 Para trabajar con la Raspberry Pi3 vamos a necesitar un  <br>
 monitor, un ratón, un teclado y una fuente de <br>
@@ -36,7 +36,7 @@ operativo Raspbian.</div>
 <li>LED</li>
 </ul>
 </div>
-### 1.2.	MONTANDO A TJBOT
+<b> 1.2.	MONTANDO A TJBOT </b>
 <div id="texto6"> 
 Para comenzar a trabajar con TJBot, lo primero que debemos hacer es obtener las piezas para <br>
 poder montarlo.
@@ -81,14 +81,14 @@ Por último, colocamos la cabeza. <br>
 <img src="imagenes/Imagen11.png" id="img11"> <br>
 ¡Ya está listo nuestro TJBot! <br>
 </div>
-#### 1.2.1. CÓMO CONECTAR LOS COMPONENTES
+<b> 1.2.1. CÓMO CONECTAR LOS COMPONENTES </b>
 <div id="texto7">A continuación, se muestra un esquema de la conexión de los diferentes componentes electrónicos que forman parte de nuestro TJBot. <br>
 <img src="imagenes/Imagen12.png" id="img12"> <br> <br>
 </div>
-### 1.3.	SERVICIOS DE WATSON
+<b> 1.3.	SERVICIOS DE WATSON </b>
 <div id="texto8"> Para realizar el proyecto final del TJBot, vamos a utilizar tres servicios de Watson: Text to Speech,<br>
  Speech to Text y Watson Assistant.</div>
-#### 1.3.1.	TEXT TO SPEECH
+<b> 1.3.1.	TEXT TO SPEECH </b>
 <div id="texto9"> El servicio Text to Speech proporciona una interfaz de programación de aplicaciones que utiliza  <br>
 las capacidades de síntesis de voz de IBM para convertir texto escrito en voz de sonido natural. <br> <br> <br>
 Para crear un servicio Text to Speech de Watson, debemos buscarlo en el catálogo de IBM Cloud. <br>
@@ -102,7 +102,7 @@ Para crear un servicio Text to Speech de Watson, debemos buscarlo en el catálog
 contraseña, que necesitaremos incluir más adelantes cuando configuremos el servicio Text to <br>
 Speech en nuestra Raspberry Pi3.</div>
 <div id="texto13"> ¡Hemos creado nuestro servicio Text to Speech! </div>
-#### 1.3.2.	SPEECH TO TEXT
+<b> 1.3.2.	SPEECH TO TEXT </b>
 <div id="texto14"> Para crear un servicio Speech to Text de Watson, debemos buscarlo en el catálogo de IBM Cloud.</div>
 <img src="imagenes/Imagen16.png" id="img16"> <br> <br>
 <div id="texto15"> Una vez seleccionado el servicio deseado, le damos al botón de "Crear" para poder empezar a trabajar.</div>
