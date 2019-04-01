@@ -111,8 +111,8 @@ Speech en nuestra Raspberry Pi3.</div> <br> <br>
 <div id="texto17"> En el apartado Service credentials (credenciales del servicio) podemos ver nuestro usuario y <br>
 contraseña, que necesitaremos incluir más adelantes cuando configuremos el servicio Speech to <br>
 Text en nuestra Raspberry Pi3. </div> <br>  <br> 
-<div id="texto18">¡Hemos creado nuestro servicio Speech to Text!</div>
-<b> 1.3.3.	ASSISTANT </b> <br> <br>
+<div id="texto18">¡Hemos creado nuestro servicio Speech to Text!</div> <br> <br>
+<b> 1.3.3.	ASSISTANT </b> <br> <br> <br> 
 <div id="texto19"> Para crear un servicio de Watson Assistant, debemos buscar el servicio deseado en el catálogo de IBM Cloud.</div> <br> <br>
 <img src="imagenes/Imagen19.png" id="img19"> <br> <br>
 <div id="texto20"> Una vez seleccionado el servicio Assistant, le damos al botón de "Crear" para poder empezar a trabajar.</div> <br> <br>
