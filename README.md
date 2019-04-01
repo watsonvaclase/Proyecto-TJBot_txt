@@ -116,7 +116,8 @@ Text en nuestra Raspberry Pi3. </div> <br>  <br>
 <div id="texto19"> Para crear un servicio de Watson Assistant, debemos buscar el servicio deseado en el catálogo de IBM Cloud.</div> <br> <br>
 <img src="imagenes/Imagen19.png" id="img19"> <br> <br>
 <div id="texto20"> Una vez seleccionado el servicio Assistant, le damos al botón de "Crear" para poder empezar a trabajar.</div> <br> <br>
-<img src="imagenes/Imagen20.png" id="img20"> <br> <br>
+<img src="imagenes/Imagen20.png" id="img20"> <br> <br> <br>
+<a href="https://github.com/watsonvaclase/conversation" > Pulsa aquí para acceder al manual de cómo crear una conversación con el servicio de Watson Assistant</a>
 <div> Cuando ya tenemos nuestro servicio creado, podemos acceder a él desde nuestro Dashboard.<br>
 Una vez la página principal de nuestro servicio, debemos buscar el botón "Launch tool" que nos llevará a la herramienta <br>
 en la que configuraremos y desarrollaremos nuestra conversación. <br>
