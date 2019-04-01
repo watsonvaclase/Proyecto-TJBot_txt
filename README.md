@@ -50,7 +50,7 @@ Las piezas que conseguiremos serán las siguientes: <br> <br>
 ¿Cómo lo montamos? <br> <br> <br>
 <div> Primero, insertamos las piernas en la mandíbula. Las piernas entran en los agujeros en forma de <br>
  L en la mandíbula. Inserta desde la parte superior de la mandíbula hacia abajo. </div> <br> <br> <br>
-<img src="imagenes/Imagen4.png" id="img4"> <br>
+<img src="imagenes/Imagen4.png" id="img4"> <br> <br> <br>
 <div> Después, cogemos la pieza "leg brace". Se encuentra en los dos orificios rectangulares en las <br>
 patas debajo de la mandíbula. Mantiene las piernas rectas y soporta la mandíbula. Debemos <br>
  asegurar que esté orientada de modo que haga contacto con la parte inferior de la mandíbula. </div> <br> <br>
