@@ -16,8 +16,8 @@ de Watson y así poder hacer hablar a nuestro robot.</div>
 de Watson y así poder hacer hablar a nuestro robot.</div>
 <img id="img1" src="imagenes/Imagen1.png"> <br>
 <p id="texto3"> El objetivo final será hacer que nuestro TJBot sea capaz de mantener una conversación con nosotros y obedezca algunas órdenes.</p>
-###  1.1.	CÓMO CREAR A TJBOT
-#### 1.1.1.	RAPSBERRY PI3 
+<b> 1.1.	CÓMO CREAR A TJBOT </b> <br>
+<b> 1.1.1.	RAPSBERRY PI3 </b>
 <div id="texto4">Raspberry Pi es un computador de placa única. <br> <br> <br>
 Para trabajar con la Raspberry Pi3 vamos a necesitar un  <br>
 monitor, un ratón, un teclado y una fuente de <br>
@@ -35,8 +35,8 @@ operativo Raspbian.</div>
 <li>Un servomotor</li>
 <li>LED</li>
 </ul>
-</div>
-### 1.2.	MONTANDO A TJBOT 
+</div> <br> 
+<b> 1.2.	MONTANDO A TJBOT </b> <br>
 <div id="texto6"> 
 Para comenzar a trabajar con TJBot, lo primero que debemos hacer es obtener las piezas para <br>
 poder montarlo.
@@ -80,15 +80,15 @@ derecha. Deslizamos el retenedor hacia abajo hasta que se encuentre con la parte
 Por último, colocamos la cabeza. <br> <br> <br>
 <img src="imagenes/Imagen11.png" id="img11"> <br> <br> <br>
 ¡Ya está listo nuestro TJBot! <br> <br> <br>
-</div>
-#### 1.2.1. CÓMO CONECTAR LOS COMPONENTES 
+</div> <br>
+<b> 1.2.1. CÓMO CONECTAR LOS COMPONENTES </b> <br> <br>
 <div id="texto7">A continuación, se muestra un esquema de la conexión de los diferentes componentes electrónicos que forman parte de nuestro TJBot. <br> <br> <br>
 <img src="imagenes/Imagen12.png" id="img12"> <br> <br>
 </div>
-### 1.3.	SERVICIOS DE WATSON <br>
+<b> 1.3.	SERVICIOS DE WATSON </b> <br>
 <div id="texto8"> Para realizar el proyecto final del TJBot, vamos a utilizar tres servicios de Watson: Text to Speech,<br>
  Speech to Text y Watson Assistant.</div>
-#### 1.3.1.	TEXT TO SPEECH <br> 
+<b> 1.3.1.	TEXT TO SPEECH </b> <br> <br>
 <div id="texto9"> El servicio Text to Speech proporciona una interfaz de programación de aplicaciones que utiliza  <br>
 las capacidades de síntesis de voz de IBM para convertir texto escrito en voz de sonido natural. <br> <br> <br>
 Para crear un servicio Text to Speech de Watson, debemos buscarlo en el catálogo de IBM Cloud. <br> <br> <br>
@@ -102,7 +102,7 @@ Para crear un servicio Text to Speech de Watson, debemos buscarlo en el catálog
 contraseña, que necesitaremos incluir más adelantes cuando configuremos el servicio Text to <br>
 Speech en nuestra Raspberry Pi3.</div> <br>
 <div id="texto13"> ¡Hemos creado nuestro servicio Text to Speech! </div> <br> <br>
-#### 1.3.2.	SPEECH TO TEXT <br> <br>
+<b> 1.3.2.	SPEECH TO TEXT </b> <br> <br>
 <div id="texto14"> Para crear un servicio Speech to Text de Watson, debemos buscarlo en el catálogo de IBM Cloud.</div> <br>
 <img src="imagenes/Imagen16.png" id="img16"> <br> <br>
 <div id="texto15"> Una vez seleccionado el servicio deseado, le damos al botón de "Crear" para poder empezar a trabajar.</div> <br> <br>
@@ -113,7 +113,7 @@ Speech en nuestra Raspberry Pi3.</div> <br>
 contraseña, que necesitaremos incluir más adelantes cuando configuremos el servicio Speech to <br>
 Text en nuestra Raspberry Pi3. </div> <br> 
 <div id="texto18">¡Hemos creado nuestro servicio Speech to Text!</div>
-#### 1.3.3.	ASSISTANT <br>
+<b> 1.3.3.	ASSISTANT </b> <br>
 <div id="texto19"> Para crear un servicio de Watson Assistant, debemos buscar el servicio deseado en el catálogo de IBM Cloud.</div> <br> <br>
 <img src="imagenes/Imagen19.png" id="img19"> <br> <br>
 <div id="texto20"> Una vez seleccionado el servicio Assistant, le damos al botón de "Crear" para poder empezar a trabajar.</div> <br> <br>
@@ -124,8 +124,8 @@ en la que configuraremos y desarrollaremos nuestra conversación. <br>
 En el apartado Service credentials (credenciales del servicio) podemos ver nuestro usuario y contraseña, que <br>
  necesitaremos incluir más adelantes cuando configuremos el servicio Assistant en nuestra Raspberry Pi3. <br> <br>
 </div>
-### 1.4.	CONFIGURAR A TJBOT  <br> <br>
-#### 1.4.1.	CONFIGURAR LA RASPBERRY PI 3 <br> <br>
+<b> 1.4.	CONFIGURAR A TJBOT  </b> <br> <br>
+<b> 1.4.1.	CONFIGURAR LA RASPBERRY PI 3  </b> <br> <br>
 Como ya hemos mencionado, Raspberry Pi es similar a un computador completo, lo que significa que se necesita un monitor, ratón y teclado para utilizarla. [1] <br> <br>
 Se puede conectar a un televisor a través de un cable HDMI. <br>
 También será necesario conectar la Raspberry a la Wifi. <br>
@@ -149,7 +149,7 @@ sudo raspi-config <br>
 para el audio de salida. Si hemos conectado un altavoz externo a la toma de audio, debemos seleccionar la toma de 3,5 mm.
 </div> <br> 
 <img src="imagenes/Imagen22.png"> <br> <br>
-#### 1.4.2.	OBTENER EL CÓDIGO PARA TJBOT 
+<b> 1.4.2.	OBTENER EL CÓDIGO PARA TJBOT </b> <br> 
 <div> Una vez tenemos todo configurado, necesitamos descargar el código base para el TJBot. <br>
 Podemos hacerlo mediante los siguientes comandos: <br> <br> 
 git clone https://github.com/ibmtjbot/tjbot.git cd tjbot/recipes/conversation <br>
@@ -167,10 +167,10 @@ Una vez hecho, abrimos el archive config.js y actualizamos las credenciales de l
 Será necesaria la password, el username y en el caso de Watson Assistant, el WorkspaceID. <br>
 </div>
 <img src="imagenes/Imagen24.png"> <br> <br>
-#### 1.4.3.	PROBANDO A TJBOT
+<b> 1.4.3.	PROBANDO A TJBOT </b> <br> 
 <div> Una vez tenemos todo configurado y la conversación creada, podemos probar a TJBot. <br>
 Abrimos el terminal y ejecutamos el siguiente comando: <br>
 sudo node conversation.js <br>
 </div>
-#### ¡Ya puedes hablar con TJBot!
+<b> ¡Ya puedes hablar con TJBot! </b>
 
