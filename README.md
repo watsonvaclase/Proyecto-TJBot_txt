@@ -16,13 +16,8 @@ de Watson y así poder hacer hablar a nuestro robot.</div>
 <b> 1.1.	CÓMO CREAR A TJBOT </b> <br> <br> 
 <b> 1.1.1.	RAPSBERRY PI3 </b> <br> <br>
 <div id="texto4">Raspberry Pi es un computador de placa única. <br> <br> <br>
-Para trabajar con la Raspberry Pi3 vamos a necesitar un  <br>
-monitor, un ratón, un teclado y una fuente de <br>
-alimentación para trabajar con ella. También debemos <br>
-tener una tarjeta micro SD con el sistema operativo <br>
-instalado, en este caso trabajaremos con el sistema <br>
-operativo Raspbian.</div> <br> <br>
-<img id="img2"src="imagenes/Imagen2.png"> <br><br>
+Para trabajar con la Raspberry Pi3 vamos a necesitar un monitor, un ratón, un teclado y una fuente de alimentación para trabajar con ella. También debemos tener una tarjeta micro SD con el sistema operativo instalado, en este caso trabajaremos con el sistema operativo Raspbian.</div> <br> <br>
+<img id="img2" src="imagenes/Imagen2.png"> <br><br>
 <div id="texto5"> Para crear nuestro TJBot hace falta conectar algunos componentes más a nuestra placa: </div>
 <div id="lista"> 
 <ul> 
@@ -51,7 +46,7 @@ Las piezas que conseguiremos serán las siguientes: <br> <br>
 <div> Después, cogemos la pieza "leg brace". Se encuentra en los dos orificios rectangulares en las <br>
 patas debajo de la mandíbula. Mantiene las piernas rectas y soporta la mandíbula. Debemos <br>
  asegurar que esté orientada de modo que haga contacto con la parte inferior de la mandíbula. </div> <br> <br>
-<img src="imagenes/Imagen5.png"id="img5"> <br> <br> <br>
+<img src="imagenes/Imagen5.png" id="img5"> <br> <br> <br>
 <div> Ahora, cogemos los pies y los insertamos en las muescas de la pierna como se muestra a <br>
  continuación. Inserta los pies desde el exterior de cada pierna. </div> <br> <br> <br>
 <img src="imagenes/Imagen6.png" id="img6"> <br> <br> <br>
