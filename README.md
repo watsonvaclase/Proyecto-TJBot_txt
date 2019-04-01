@@ -2,8 +2,7 @@
 # Proyecto-TJBot_txt
 ## Manual del ejercicio TJBot en texto
 ### 	PROYECTO TJ BOT
-<div id="texto1">En esta sección vamos a construir un TJBot con el <br>
-que poder mantener una conversación. [6] </div>
+<div id="texto1">En esta sección vamos a construir un TJBot con el que poder mantener una conversación. [6] </div>
 <br> 
 <br>
 <br>
