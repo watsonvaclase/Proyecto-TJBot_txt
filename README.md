@@ -1,7 +1,7 @@
 
 # Proyecto-TJBot_txt
 ## Manual del ejercicio TJBot en texto
-### 2.	PROYECTO TJ BOT
+### 	PROYECTO TJ BOT
 <div id="texto1">En esta sección vamos a juntar todo lo aprendido anteriormente para construir un TJBot con el <br>
 que poder mantener una conversación. [6] </div>
 <br> 
@@ -14,8 +14,8 @@ de Watson y así poder hacer hablar a nuestro robot.</div>
 <br>
 <img id="img1" src="imagenes/Imagen1.png"> <br> <br>
 <p id="texto3"> El objetivo final será hacer que nuestro TJBot sea capaz de mantener una conversación con nosotros y obedezca algunas órdenes.</p> <br> 
-<b> 1.1.	CÓMO CREAR A TJBOT </b> <br>
-<b> 1.1.1.	RAPSBERRY PI3 </b>
+<b> 1.1.	CÓMO CREAR A TJBOT </b> <br> <br> 
+<b> 1.1.1.	RAPSBERRY PI3 </b> <br> <br>
 <div id="texto4">Raspberry Pi es un computador de placa única. <br> <br> <br>
 Para trabajar con la Raspberry Pi3 vamos a necesitar un  <br>
 monitor, un ratón, un teclado y una fuente de <br>
@@ -117,12 +117,12 @@ Text en nuestra Raspberry Pi3. </div> <br>  <br>
 <img src="imagenes/Imagen19.png" id="img19"> <br> <br>
 <div id="texto20"> Una vez seleccionado el servicio Assistant, le damos al botón de "Crear" para poder empezar a trabajar.</div> <br> <br>
 <img src="imagenes/Imagen20.png" id="img20"> <br> <br> <br>
-<a href="https://github.com/watsonvaclase/conversation" > Pulsa aquí para acceder al manual de cómo crear una conversación con el servicio de Watson Assistant</a>
-<div> Cuando ya tenemos nuestro servicio creado, podemos acceder a él desde nuestro Dashboard.<br>
+<a href="https://github.com/watsonvaclase/conversation" > Pulsa aquí para acceder al manual de cómo crear una conversación con el servicio de Watson Assistant</a> <br> <br>
+<div> Cuando ya tenemos nuestro servicio creado, podemos acceder a él desde nuestro Dashboard.<br> <br> 
 Una vez la página principal de nuestro servicio, debemos buscar el botón "Launch tool" que nos llevará a la herramienta <br>
-en la que configuraremos y desarrollaremos nuestra conversación. <br>
+en la que configuraremos y desarrollaremos nuestra conversación. <br> <br> 
 En el apartado Service credentials (credenciales del servicio) podemos ver nuestro usuario y contraseña, que <br>
- necesitaremos incluir más adelantes cuando configuremos el servicio Assistant en nuestra Raspberry Pi3. <br> <br>
+ necesitaremos incluir más adelantes cuando configuremos el servicio Assistant en nuestra Raspberry Pi3. <br> <br> <br>
 </div>
 <b> 1.4.	CONFIGURAR A TJBOT  </b> <br> <br> <br> 
 <b> 1.4.1.	CONFIGURAR LA RASPBERRY PI 3  </b> <br> <br>
