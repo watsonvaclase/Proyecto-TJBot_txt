@@ -48,41 +48,41 @@ Este robot es DY (Do it yourself) y puede conseguirse imprimiendo las piezas en 
 Las piezas que conseguiremos serán las siguientes: <br> <br>
 <img src="imagenes/Imagen3.png" id="img3"> <br> <br> <br>
 ¿Cómo lo montamos? <br> <br> <br>
-Primero, insertamos las piernas en la mandíbula. Las piernas entran en los agujeros en forma de <br>
-L en la mandíbula. Inserta desde la parte superior de la mandíbula hacia abajo. <br> <br> <br>
+<div> Primero, insertamos las piernas en la mandíbula. Las piernas entran en los agujeros en forma de <br>
+ L en la mandíbula. Inserta desde la parte superior de la mandíbula hacia abajo. </div> <br> <br> <br>
 <img src="imagenes/Imagen4.png" id="img4"> <br>
-Después, cogemos la pieza "leg brace". Se encuentra en los dos orificios rectangulares en las <br>
+<div> Después, cogemos la pieza "leg brace". Se encuentra en los dos orificios rectangulares en las <br>
 patas debajo de la mandíbula. Mantiene las piernas rectas y soporta la mandíbula. Debemos <br>
-asegurar que esté orientada de modo que haga contacto con la parte inferior de la mandíbula.<br>
-<img src="imagenes/Imagen5.png"id="img5"> <br>
-Ahora, cogemos los pies y los insertamos en las muescas de la pierna como se muestra a <br>
-continuación. Inserta los pies desde el exterior de cada pierna. <br>
-<img src="imagenes/Imagen6.png" id="img6"> <br>
-Si tenemos un servo motor, es hora de insertarlo en el orificio del lado izquierdo en la mandíbula. <br>
+ asegurar que esté orientada de modo que haga contacto con la parte inferior de la mandíbula. </div> <br> <br>
+<img src="imagenes/Imagen5.png"id="img5"> <br> <br> <br>
+<div> Ahora, cogemos los pies y los insertamos en las muescas de la pierna como se muestra a <br>
+ continuación. Inserta los pies desde el exterior de cada pierna. </div> <br> <br> <br>
+<img src="imagenes/Imagen6.png" id="img6"> <br> <br> <br>
+<div> Si tenemos un servo motor, es hora de insertarlo en el orificio del lado izquierdo en la mandíbula. <br>
 Cogemos el retenedor inferior y lo deslizamos hacia abajo a través de los agujeros en forma de L <br>
 en las patas. Los brazos de soporte en la parte inferior de este retenedor deben caber en las <br>
-muescas de acoplamiento en la mandíbula. <br>
-<img src="imagenes/Imagen7.png" id="img7"> <br>
-A continuación, insertaremos la Raspberry Pi. Se monta boca abajo, con sus puertos expuestos a <br>
+ muescas de acoplamiento en la mandíbula. </div> <br> <br> <br>
+<img src="imagenes/Imagen7.png" id="img7"> <br> <br> <br>
+<div> A continuación, insertaremos la Raspberry Pi. Se monta boca abajo, con sus puertos expuestos a <br>
 través de los tres agujeros en la mandíbula. <br> <br>
 Si tenemos una cámara: tomamos el soporte de montaje de la cámara. Deslizamos los dos <br>
 montajes laterales de la cámara en las muescas en la parte delantera del retenedor. Deslizamos <br>
 la cámara Pi en el soporte y luego agregue los reforzadores superior y frontal para mantener la <br>
-cámara ajustada. <br>
-<img src="imagenes/Imagen8.png" id="img8"> <br>
-El siguiente retenedor es el que tiene el pequeño círculo grabado en él. Lo añadimos a TJBot <br>
+ cámara ajustada. </div> <br> <br> <br> 
+<img src="imagenes/Imagen8.png" id="img8"> <br> <br> <br>
+<div> El siguiente retenedor es el que tiene el pequeño círculo grabado en él. Lo añadimos a TJBot <br>
 deslizándolo a través de los orificios en forma de L, con el círculo pequeño orientado hacia la <br>
 derecha. Deslizamos el retenedor hacia abajo hasta que se encuentre con la parte superior de la <br>
-Raspberry Pi.<br>
-<img src="imagenes/Imagen9.png" id="img9"> <br>
-Insertamos el LED en el orificio central del retenedor pequeño. <br>
-<img src="imagenes/Imagen10.png" id="img10"> <br>
-Por último, colocamos la cabeza. <br>
-<img src="imagenes/Imagen11.png" id="img11"> <br>
-¡Ya está listo nuestro TJBot! <br>
+ Raspberry Pi.</div> <br> <br> <br>
+<img src="imagenes/Imagen9.png" id="img9"> <br> <br> <br>
+ <div> Insertamos el LED en el orificio central del retenedor pequeño. </div> <br> <br> <br>
+<img src="imagenes/Imagen10.png" id="img10"> <br> <br> <br>
+Por último, colocamos la cabeza. <br> <br> <br>
+<img src="imagenes/Imagen11.png" id="img11"> <br> <br> <br>
+¡Ya está listo nuestro TJBot! <br> <br> <br>
 </div>
 <b> 1.2.1. CÓMO CONECTAR LOS COMPONENTES </b>
-<div id="texto7">A continuación, se muestra un esquema de la conexión de los diferentes componentes electrónicos que forman parte de nuestro TJBot. <br>
+<div id="texto7">A continuación, se muestra un esquema de la conexión de los diferentes componentes electrónicos que forman parte de nuestro TJBot. <br> <br> <br>
 <img src="imagenes/Imagen12.png" id="img12"> <br> <br>
 </div>
 <b> 1.3.	SERVICIOS DE WATSON </b>
