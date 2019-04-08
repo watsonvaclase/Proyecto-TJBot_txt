@@ -77,7 +77,10 @@ Por último, colocamos la cabeza. <br> <br> <br>
 <div id="texto7">A continuación, se muestra un esquema de la conexión de los diferentes componentes electrónicos que forman parte de nuestro TJBot. <br> <br> <br>
 <img src="imagenes/Imagen12.png" id="img12"> <br> <br>
 </div>
-<b> 1.3.	SERVICIOS DE WATSON </b> <br> <br> <br> 
+<br>
+<br>
+
+## 1.3.	SERVICIOS DE WATSON </b> <br> <br> <br> 
 <div id="texto8"> Para realizar el proyecto final del TJBot, vamos a utilizar tres servicios de Watson: Text to Speech,<br>
  Speech to Text y Watson Assistant.</div> <br> <br>
 <b> 1.3.1.	TEXT TO SPEECH </b> <br> <br>
