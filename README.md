@@ -80,7 +80,7 @@ Por último, colocamos la cabeza. <br> <br> <br>
 <br>
 <br>
 <div id="image26"> En la siguiente imagen se muestra cómo colocar correctamente el servomotor para el brazo: </div> <br> <br>
-<img src="imagenes/Imagen26.png" id="img26"> <br> <br> <br>
+<img src="imagenes/Imagen26.jpg" id="img26"> <br> <br> <br>
 
 
 ## 1.3.	SERVICIOS DE WATSON </b> <br> <br> <br> 
